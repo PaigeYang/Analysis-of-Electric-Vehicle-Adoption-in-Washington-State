@@ -1,2 +1,9 @@
 # IS833-Analyse-EVs-in-WA
-This project aims to deepdive into the EV market in the state of Washington
+This project aims to deep dive into the EV market in the state of Washington
+
+Teammates:
+Justin, Gitelman
+Minje (Lima), Kim
+Pei-Chun (Paige), Yang
+Raghav, Verma
+Su Min, Tan
